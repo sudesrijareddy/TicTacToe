@@ -1,3 +1,5 @@
+// AI game Mode
+
 import  { useEffect } from 'react';
 
 const AIPlayer = ({ currentPlayer, cells, gameEnded, handleAIPlay }) => {
